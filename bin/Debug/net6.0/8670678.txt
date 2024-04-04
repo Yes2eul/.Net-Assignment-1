@@ -1,0 +1,7 @@
+Account No| 8670678
+First Name| haeun
+Last Name| kim
+Address| uts
+Phone| 1029384756
+Email| hek@uts
+Balance| 30000.00

@@ -1,0 +1,45 @@
+/Users/yeseul/Desktop/UTS/S2022/App dev .Net/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1
+/Users/yeseul/Desktop/UTS/S2022/App dev .Net/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.deps.json
+/Users/yeseul/Desktop/UTS/S2022/App dev .Net/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.runtimeconfig.json
+/Users/yeseul/Desktop/UTS/S2022/App dev .Net/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.dll
+/Users/yeseul/Desktop/UTS/S2022/App dev .Net/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.pdb
+/Users/yeseul/Desktop/UTS/S2022/App dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.csproj.AssemblyReference.cache
+/Users/yeseul/Desktop/UTS/S2022/App dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeseul/Desktop/UTS/S2022/App dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.AssemblyInfoInputs.cache
+/Users/yeseul/Desktop/UTS/S2022/App dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.AssemblyInfo.cs
+/Users/yeseul/Desktop/UTS/S2022/App dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/yeseul/Desktop/UTS/S2022/App dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.dll
+/Users/yeseul/Desktop/UTS/S2022/App dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/refint/Assignment1.dll
+/Users/yeseul/Desktop/UTS/S2022/App dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.pdb
+/Users/yeseul/Desktop/UTS/S2022/App dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.genruntimeconfig.cache
+/Users/yeseul/Desktop/UTS/S2022/App dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/ref/Assignment1.dll
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.csproj.AssemblyReference.cache
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.AssemblyInfoInputs.cache
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.AssemblyInfo.cs
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.dll
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/refint/Assignment1.dll
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.pdb
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.deps.json
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.runtimeconfig.json
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.dll
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1/Assignment1/bin/Debug/net6.0/Assignment1.pdb
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/Assignment1.genruntimeconfig.cache
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1/Assignment1/obj/Debug/net6.0/ref/Assignment1.dll
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1_13978248_Yeseul Shin/Assignment1/bin/Debug/net6.0/Assignment1
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1_13978248_Yeseul Shin/Assignment1/bin/Debug/net6.0/Assignment1.deps.json
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1_13978248_Yeseul Shin/Assignment1/bin/Debug/net6.0/Assignment1.runtimeconfig.json
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1_13978248_Yeseul Shin/Assignment1/bin/Debug/net6.0/Assignment1.dll
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1_13978248_Yeseul Shin/Assignment1/bin/Debug/net6.0/Assignment1.pdb
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1_13978248_Yeseul Shin/Assignment1/obj/Debug/net6.0/Assignment1.csproj.AssemblyReference.cache
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1_13978248_Yeseul Shin/Assignment1/obj/Debug/net6.0/Assignment1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1_13978248_Yeseul Shin/Assignment1/obj/Debug/net6.0/Assignment1.AssemblyInfoInputs.cache
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1_13978248_Yeseul Shin/Assignment1/obj/Debug/net6.0/Assignment1.AssemblyInfo.cs
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1_13978248_Yeseul Shin/Assignment1/obj/Debug/net6.0/Assignment1.csproj.CoreCompileInputs.cache
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1_13978248_Yeseul Shin/Assignment1/obj/Debug/net6.0/Assignment1.dll
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1_13978248_Yeseul Shin/Assignment1/obj/Debug/net6.0/refint/Assignment1.dll
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1_13978248_Yeseul Shin/Assignment1/obj/Debug/net6.0/Assignment1.pdb
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1_13978248_Yeseul Shin/Assignment1/obj/Debug/net6.0/Assignment1.genruntimeconfig.cache
+/Users/yeseul/Desktop/UTS/S2022/dev .Net/Assignment1_13978248_Yeseul Shin/Assignment1/obj/Debug/net6.0/ref/Assignment1.dll

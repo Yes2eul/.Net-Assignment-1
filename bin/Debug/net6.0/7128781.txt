@@ -1,0 +1,7 @@
+Account No| 7128781
+First Name|  7128781
+Last Name|   7128781
+Address|   ys
+Phone|   s
+Email|   uts
+Balance| 3000.00

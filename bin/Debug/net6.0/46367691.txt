@@ -1,0 +1,7 @@
+Account No| 46367691
+First Name| yeseul
+Last Name| Shin
+Address| uts
+Phone| 0987654321
+Email| sys@uts
+Balance| 122450.00

@@ -1,0 +1,7 @@
+Account No| 22839520
+First Name| yuji
+Last Name| kim
+Address| uts
+Phone| 1029384756
+Email| ji@uts
+Balance| 2766.00
